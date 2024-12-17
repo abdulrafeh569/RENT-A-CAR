@@ -1,1 +1,1 @@
-# RENT-A-CAR
+This is a rent a car project made with qt in cpp
