@@ -1,0 +1,6 @@
+Name: SPORTAGE
+Company: KIA
+Model: 2021
+Price: 60
+Availability: Yes
+----------

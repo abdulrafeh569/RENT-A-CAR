@@ -1,0 +1,6 @@
+Name: Corolla
+Company: Toyota
+Model: 2010
+Price: 10$
+Days: 5
+----------

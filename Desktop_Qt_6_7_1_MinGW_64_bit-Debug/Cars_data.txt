@@ -1,0 +1,12 @@
+Name: Corolla
+Company: Toyota
+Model: 2010
+Price: 10$
+Availability: No
+----------
+Name: Civic
+Company: Honda
+Model: 2010
+Price: 10$
+Availability: Yes
+----------

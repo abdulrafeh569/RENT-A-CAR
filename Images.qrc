@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main_menu.jpg</file>
+        <file>Select_Role.jpg</file>
+        <file>Admin_login.jpg</file>
+        <file>User_Login_register.jpg</file>
+        <file>Admin_Menu.jpg</file>
+        <file>User_Menu.jpg</file>
+        <file>Remove_car.jpg</file>
+        <file>View_Car.jpg</file>
+        <file>Rent_car.jpg</file>
+        <file>User_view_car.jpg</file>
+        <file>Return_car.jpg</file>
+    </qresource>
+</RCC>
